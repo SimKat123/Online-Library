@@ -17,7 +17,7 @@ Once the packages are installed in the client and server folders, run the follow
 Once the app is built run the command: npm run develop to run the app.
 
 ## Usage
-The deployed Heroku website can be found at: 
+The deployed Heroku website can be found at: https://ancient-wave-95542.herokuapp.com/
 
 ## Credits
 [Apollo GQL Doc](https://www.apollographql.com/docs/react/data/queries/)
